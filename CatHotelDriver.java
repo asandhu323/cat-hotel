@@ -1,4 +1,4 @@
-package ca.bcit.comp1510.lab09;
+package ca;
 
 import java.util.Random;
 
